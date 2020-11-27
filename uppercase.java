@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.io.FileWriter;
 
 
-public class Demo2 {
+public class uppercase{
 
 	public static void main(String[] args) {
 		
