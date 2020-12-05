@@ -1,1 +1,3 @@
-THIS IS TEST FILE
+This is test file 
+
+AFTER RUNNING the program all lowercase LETTERS are get converted into uppercase
